@@ -28,9 +28,3 @@ application {
     // Define the main class for the application.
     mainClass = 'gon125.App'
 }
-
-jar {
-    manifest {
-        attributes 'Main-Class': 'gon125.App'
-    }
-}
